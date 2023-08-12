@@ -1,0 +1,4 @@
+source: rsync://ftp.halifax.rwth-aachen.de/alpine/
+target: /mirror/alpine
+ignore:
+ - "/v*.*"
