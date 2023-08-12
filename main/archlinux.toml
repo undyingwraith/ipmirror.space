@@ -1,0 +1,9 @@
+source: rsync://mirrors.xtom.de/archlinux/
+target: /mirror/archlinux
+ignore:
+  - "/iso"
+  - "/images"
+  - "/multilib*"
+  - "/archive"
+  - "/*-debug"
+  - "/sources"

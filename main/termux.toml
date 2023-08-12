@@ -1,0 +1,4 @@
+source: rsync://ftp.fau.de/termux
+target: /mirror/termux
+ignore:
+  - "/termux-main-21"

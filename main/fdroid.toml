@@ -1,0 +1,2 @@
+source: rsync://ftp.fau.de/fdroid/repo
+target: /mirror/fdroid/repo
